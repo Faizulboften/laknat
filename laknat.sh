@@ -75,7 +75,6 @@ sleep 2
 clear
 git clonehttps://github.com/Hanzelnutt/instabot
 cd instabot
-ls
 pip2 install -r requirements.txt
 bash instabot
 
@@ -120,7 +119,7 @@ if [ $bro = 8 ] || [ $bro 8 ]
 then
 sleep 2
 clear
-https://github.com/V4N654T/fb-hacker
+git clone https://github.com/V4N654T/fb-hacker
 cd fb-hacker
 python2 fb.py
 fi
@@ -129,7 +128,7 @@ if [ $bro = 9 ] || [$bro 9 ]
 then
 sleep 2
 clear
-https://github.com/ridwanirawan/lowbait
+git clone https://github.com/ridwanirawan/lowbait
 cd lowbait
 python2 lowbait.py
 fi
@@ -147,7 +146,7 @@ if [ $bro = 11 ] || [ $bro = 11 ]
 then
 sleep 2
 clear
-https://github.com/ARIYA-CYBER/NEW
+git clone https://github.com/ARIYA-CYBER/NEW
 cd NEW
 python2 FbNew.py
 fi
