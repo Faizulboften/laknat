@@ -21,7 +21,7 @@ echo $purple "
 \033[1;93m║\033[1;96m* \033[1;93mGitHub  \033[1;93m: \033[1;93m\033[4mhttps://github.com/Faizulcyber  [ \033[1;93m  ║
 \033[1;93m╚════════════════════════════════════════════╝"
 echo $cy "
-┏━━━━━┫{✔ menu hacking sob ✔}┣━━━━━┓
+┏━━━━━┫{✔ MENU HACKING BY FAIZUL ✔}┣━━━━━┓
 ┃
 ┠──[1]📂 RED HAWK
 ┃
@@ -35,28 +35,17 @@ echo $cy "
 ┃
 ┠──[7]📂 HACK FB TARGET
 ┃
-┠──[
+┠──[8]📂 CLON AKUN TARGET LUAR
 ┃
-┠──[
+┠──[9]📂 HACK FACEBOOK V2
 ┠
-┠──[
+┠──[10]📂 CLONING YAHOO
 ┠
-┠──[
+┠──[11]📂 PP GUARD AKTIF
 ┠
-┠──[
-┠
-┠──[
-┠
-┠──[
-┠
-┠──[
-┠
-┠──[
-┠
-┗────[99] exit ✘"
+┗────[99] exit/program ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
-
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
@@ -131,7 +120,37 @@ if [ $bro = 8 ] || [ $bro 8 ]
 then
 sleep 2
 clear
-BALM RILIS
+https://github.com/V4N654T/fb-hacker
+cd fb-hacker
+python2 fb.py
+fi
+
+if [ $bro = 9 ] || [$bro 9 ]
+then
+sleep 2
+clear
+https://github.com/ridwanirawan/lowbait
+cd lowbait
+python2 lowbait.py
+fi
+
+if [ $bro = 10 ] || [ $bro = 10 ]
+then
+sleep 2
+clear
+git clone https://github.com/dizart-y/cLONiNg-Yahoo
+cd cLONiNg-Yahoo
+python2 CloningYahoo.py
+fi
+
+if [ $bro = 11 ] || [ $bro = 11 ]
+then
+sleep 2
+clear
+https://github.com/ARIYA-CYBER/NEW
+cd NEW
+python2 FbNew.py
+fi
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
