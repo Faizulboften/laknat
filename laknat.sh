@@ -73,7 +73,7 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 sleep 2
 clear
-git clonehttps://github.com/Hanzelnutt/instabot
+git clone https://github.com/Hanzelnutt/instabot
 cd instabot
 pip2 install -r requirements.txt
 bash instabot
